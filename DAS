@@ -1,0 +1,9 @@
+※CCTV5http://ott.js.chinamobile.com/PLTV/9/224/3221228179/Gahing.m3u8CCTV5
+CCTV5+http://ott.js.chinamobile.com/PLTV/9/224/3221228176/Gahing.m3u8CCTV5+
+CCTV13http://ott.js.chinamobile.com/PLTV/9/224/3221228224/Gahing.m3u8CCTV13
+CCTV16http://ott.js.chinamobile.com/PLTV/8/224/3221228144/Gahing.m3u8CCTV16
+咪咕视频1http://ott.js.chinamobile.com/PLTV/9/224/3221228129/Gahing.m3u8咪咕视频1
+咪咕视频2http://ott.js.chinamobile.com/PLTV/9/224/3221228193/Gahing.m3u8咪咕视频2
+咪咕视频3http://ott.js.chinamobile.com/PLTV/9/224/3221228206/Gahing.m3u8咪咕视频3
+咪咕视频4http://ott.js.chinamobile.com/PLTV/9/224/3221228231/Gahing.m3u8咪咕视频4
+咪咕视频5http://ott.js.chinamobile.com/PLTV/9/224/3221228234/Gahing.m3u8咪咕视频5
