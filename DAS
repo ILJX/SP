@@ -1,5 +1,5 @@
 ※CCTV5http://ott.js.chinamobile.com/PLTV/9/224/3221228179/Gahing.m3u8CCTV5
-CCTV5+http://ott.js.chinamobile.com/PLTV/9/224/3221228176/Gahing.m3u8CCTV5+
+CCTV5体育http://ott.js.chinamobile.com/PLTV/9/224/3221228176/Gahing.m3u8CCTV5体育
 CCTV13http://ott.js.chinamobile.com/PLTV/9/224/3221228224/Gahing.m3u8CCTV13
 CCTV16http://ott.js.chinamobile.com/PLTV/8/224/3221228144/Gahing.m3u8CCTV16
 咪咕视频1http://ott.js.chinamobile.com/PLTV/9/224/3221228129/Gahing.m3u8咪咕视频1
